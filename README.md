@@ -82,3 +82,4 @@ Copiar código
 
 
 The code is structured as follows: Each folder has an exact name that reflects its contents. For the code part, there are two main folders: one contains the actual code, and the other applies this code.
+The dataset used for feature extraction, the features themselves, and the complete dataset composed of the extracted features are all available in https://drive.google.com/drive/folders/1eCR4zu9SX5_zXdD3TAEVg8o7pJlWzeV9?usp=drive_link
