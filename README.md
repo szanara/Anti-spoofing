@@ -62,7 +62,7 @@ The codes used are adapted or collected from the following repositories:
   note = {Accessed: 2024-06-10}
 }
 
-*SIFT:
+* SIFT:
 
 
 @misc{opencv_sift,
