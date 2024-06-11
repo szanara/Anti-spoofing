@@ -3,10 +3,9 @@ This repository corresponds to an adapted implementation of the paper "On the ge
 
 The codes used are adapted or collected from the following repositories:
 
-LPQ:
+* LPQ:
 
-bibtex
-Copiar código
+
 @misc{local_phase_quantisation,
   author = {Absaravanan},
   title = {Local Phase Quantisation},
@@ -15,10 +14,9 @@ Copiar código
   note = {Script for Local Phase Quantisation algorithm in Python},
   url = {https://gist.github.com/absaravanan/a145f3b1a364d2a499bca79525b2667b}
 }
-BSIF and the 8 filters with size 7x7:
 
-bibtex
-Copiar código
+* BSIF and the 8 filters with size 7x7:
+
 @misc{domain-specific-BSIF-for-iris-recognition,
   author = {Adam Czajka and Daniel Moreira and Kevin W. Bowyer and Patrick J. Flynn},
   title = {Domain-Specific Human-Inspired Binarized Statistical Image Features for Iris Recognition},
@@ -29,10 +27,9 @@ Copiar código
   url = {https://github.com/CVRL/domain-specific-BSIF-for-iris-recognition},
   version = {1.0}
 }
-MiniDataset:
+* MiniDataset:
 
-bibtex
-Copiar código
+
 @misc{depedri2021face,
   author = {Kevin Depedri and Matteo Brugnera},
   title = {Face Spoofing Detection Using Colour Texture Analysis},
@@ -42,10 +39,9 @@ Copiar código
   howpublished = {\url{https://github.com/KevinDepedri/Face-Spoofing-Detection-Using-Colour-Texture-Analysis}},
   note = {Student project for the "Signal, Image and Video" course, Master in Artificial Intelligent Systems at the University of Trento, a.y. 2021-2022}
 }
-LCCD Dataset:
 
-bibtex
-Copiar código
+* CCD Dataset:
+
 @INPROCEEDINGS{8895208,
   author = {Timoshenko, Denis and Simonchik, Konstantin and Shutov, Vitaly and Zhelezneva, Polina and Grishkin, Valery},
   booktitle = {2019 Computer Science and Information Technologies (CSIT)},
@@ -55,10 +51,9 @@ Copiar código
   keywords = {computer science;biometrics;datasets},
   doi = {10.1109/CSITechnol.2019.8895208}
 }
-Extractors based on LBP:
 
-bibtex
-Copiar código
+* Extractors based on LBP:
+
 @misc{scikit-image,
   author = {scikit-image contributors},
   title = {skimage.feature.local_binary_pattern},
@@ -66,10 +61,10 @@ Copiar código
   url = {https://scikit-image.org/docs/stable/api/skimage.feature.html#skimage.feature.local_binary_pattern},
   note = {Accessed: 2024-06-10}
 }
-SIFT:
 
-bibtex
-Copiar código
+*SIFT:
+
+
 @misc{opencv_sift,
   author = {OpenCV},
   title = {Introduction to SIFT (Scale-Invariant Feature Transform)},
